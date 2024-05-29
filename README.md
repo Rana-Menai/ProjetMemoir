@@ -19,6 +19,9 @@ Le jeu de données utilisé pour ce projet est disponible dans un fichier d'arch
 ### **Métriques d'Évaluation**
 
 Les modèles sont évalués selon les métriques suivantes :
-- Précision (Accuracy)
+- Précision 
 - Score F1
+- Score Accuracy
+- Recall
 - Matrice de Confusion
+- ROC Curves
